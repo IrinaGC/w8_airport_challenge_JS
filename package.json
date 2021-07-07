@@ -1,0 +1,25 @@
+{
+  "name": "w8_airport_challenge_js",
+  "version": "1.0.0",
+  "description": "ruby_airport_challenge_to_JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrinaGC/w8_airport_challenge_JS.git"
+  },
+  "author": "Irina C @Makers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrinaGC/w8_airport_challenge_JS/issues"
+  },
+  "homepage": "https://github.com/IrinaGC/w8_airport_challenge_JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.8.0"
+  }
+}
